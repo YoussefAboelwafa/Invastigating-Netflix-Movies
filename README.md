@@ -1,5 +1,5 @@
 # Investigating Netflix Movies
-**Note:** The project requirments and the dataset is provided from DataCamp
+**Note:** The project requirments and the dataset is provided by DataCamp
 
 ## 1. Loading data into a dictionary
 
