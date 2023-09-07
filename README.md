@@ -1,2 +1,2 @@
-# Invastigating-Netflix-Movies
-Invastigating Netflix movies dataset using python libraries: pandas and matplotlib
+# Invastigating Netflix Movies
+**Note:** The project requirments and the dataset is provided from DataCamp
